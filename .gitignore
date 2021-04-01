@@ -1,0 +1,11 @@
+data/
+visualize/
+weights/
+logs/
+.git/
+.vscode
+__pycache__/*
+*/__pycache__/*
+
+
+
