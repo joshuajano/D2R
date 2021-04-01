@@ -12,3 +12,6 @@ For training please change the directory in conf.yaml file
 
 ## Test
 Will be updated soon
+
+## Result
+
