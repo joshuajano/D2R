@@ -16,3 +16,4 @@ Will be updated soon
 ## Result (3D Body Reconstruction)
 ![plot](https://github.com/joshuajano/joint_framework/blob/c2478031505eca043c1270031cd43ec3695dd283/images/1.png)
 ## Result (Deblurring)
+![plot](https://github.com/joshuajano/joint_framework/blob/7e83b9de2ad4ae96379342945f0e9c07f9bfbf3f/images/2_2.png)
