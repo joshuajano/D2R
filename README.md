@@ -1,4 +1,4 @@
-# Joint Framework of Human Deblurring and 3D Holistic Body Reconstruction
+# Holistic 3D Body Reconstruction from a Blurred Single Image (In Submission to CVPR 2022)
 
 ![plot](https://github.com/joshuajano/joint_framework/blob/c2478031505eca043c1270031cd43ec3695dd283/images/TrainDeb2.png)
 ![plot](https://github.com/joshuajano/joint_framework/blob/c2478031505eca043c1270031cd43ec3695dd283/images/train3D2.png)
