@@ -1,5 +1,5 @@
 # Holistic 3D Body Reconstruction from a Blurred Single Image (In Submission to CVPR 2022)
-
+![plot](https://github.com/jo![framework_5](https://user-images.githubusercontent.com/34101139/152974367-bea8dad9-ce02-4b91-a491-ddb1d731db16.jpg)
 ![plot](https://github.com/joshuajano/joint_framework/blob/c2478031505eca043c1270031cd43ec3695dd283/images/TrainDeb2.png)
 ![plot](https://github.com/joshuajano/joint_framework/blob/c2478031505eca043c1270031cd43ec3695dd283/images/train3D2.png)
 ## Requirement
