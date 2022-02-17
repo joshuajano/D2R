@@ -3,6 +3,8 @@
 <!-- 
 ![plot](https://github.com/joshuajano/joint_framework/blob/c2478031505eca043c1270031cd43ec3695dd283/images/TrainDeb2.png)
 ![plot](https://github.com/joshuajano/joint_framework/blob/c2478031505eca043c1270031cd43ec3695dd283/images/train3D2.png) -->
+## News
+
 ## Requirement
 Please download the required data below and save it on `data` folder\
 [link] https://cutt.ly/Icu3Ky7
@@ -20,4 +22,5 @@ Will be updated soon
 ![plot](https://github.com/joshuajano/joint_framework/blob/7e83b9de2ad4ae96379342945f0e9c07f9bfbf3f/images/2_2.png)
 
 ## Evaluation Scores
+**Evaluation score on EHF dataset**
 ![Screenshot from 2022-02-17 16-02-49](https://user-images.githubusercontent.com/34101139/154422870-8b25b7d5-62a4-4109-8e8e-7a8b0bfe6da4.png)
