@@ -18,3 +18,6 @@ Will be updated soon
 ![plot](https://github.com/joshuajano/joint_framework/blob/c2478031505eca043c1270031cd43ec3695dd283/images/1.png)
 ## Result (Deblurring)
 ![plot](https://github.com/joshuajano/joint_framework/blob/7e83b9de2ad4ae96379342945f0e9c07f9bfbf3f/images/2_2.png)
+
+## Evaluation Scores
+![Screenshot from 2022-02-17 16-02-49](https://user-images.githubusercontent.com/34101139/154422870-8b25b7d5-62a4-4109-8e8e-7a8b0bfe6da4.png)
