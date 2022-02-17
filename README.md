@@ -24,3 +24,6 @@ Will be updated soon
 ## Evaluation Scores
 **Evaluation score on EHF dataset**
 ![Screenshot from 2022-02-17 16-02-49](https://user-images.githubusercontent.com/34101139/154422870-8b25b7d5-62a4-4109-8e8e-7a8b0bfe6da4.png)
+**Evaluation score on SINBlur dataset**
+![image](https://user-images.githubusercontent.com/34101139/154425790-9ddb42ed-ed71-430c-89cd-8601250041e3.png)
+
