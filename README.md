@@ -4,7 +4,12 @@
 ![plot](https://github.com/joshuajano/joint_framework/blob/c2478031505eca043c1270031cd43ec3695dd283/images/TrainDeb2.png)
 ![plot](https://github.com/joshuajano/joint_framework/blob/c2478031505eca043c1270031cd43ec3695dd283/images/train3D2.png) -->
 ## News
-
+**2022.02.17** 
+Verified the evaluation scores on EHF and SINBlur dataset. There are slightly difference with the score in the paper.\
+**2022.02.02** 
+Updated the network figure\
+**2021.03.15**
+Push demo code to github\
 ## Requirement
 Please download the required data below and save it on `data` folder\
 [link] https://cutt.ly/Icu3Ky7
